@@ -18,7 +18,7 @@ import androidx.compose.ui.unit.dp
 import dev.chrisbanes.accompanist.coil.CoilImage
 import kotlinx.coroutines.launch
 
-class pLists {
+class Lists {
 
     @Composable
     @Preview
